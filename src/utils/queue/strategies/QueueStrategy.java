@@ -2,6 +2,7 @@ package utils.queue.strategies;
 
 import java.util.ArrayList;
 import utils.Tuple;
+import utils.queue.interfaces.iQueueCallback;
 
 /**
  * Abstract class that defines a processing strategy for a given queue

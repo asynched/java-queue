@@ -1,4 +1,4 @@
-package utils.queue.strategies;
+package utils.queue.interfaces;
 
 /**
  * Functional interface that defines a generic callback type for the
